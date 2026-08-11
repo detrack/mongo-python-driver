@@ -1,3 +1,15 @@
+> ## ⚠️ Archived
+>
+> This repository was archived on **2026-08-11** and is now **read-only**.
+>
+> Last commit to the default branch: **2016-10-31** — 9.8000000000000007 years before archiving. It was archived as part of an organisation-wide review of dormant
+> repositories. No further changes will be made here.
+>
+> The code remains available to clone and fork. An organisation owner can
+> restore write access via *Settings → General → Danger Zone → Unarchive*.
+
+---
+
 =======
 PyMongo
 =======
